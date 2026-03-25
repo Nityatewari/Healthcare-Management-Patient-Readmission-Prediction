@@ -1,7 +1,12 @@
 # Healthcare-Management-Patient-Readmission-Prediction
 
-The project focuses on healthcare management, specifically analyzing diabetic patient data to understand hospital readmissions and treatment patterns.
-The goal was to identify factors influencing patient outcomes, such as readmission rates, length of stay, medication usage, and demographic characteristics. Using Python, SQL, Excel, and Tableau, I explored patient history, admission details, diagnoses, and clinical indicators to uncover patterns that hospitals can use to reduce readmissions, improve care quality, and optimize resource utilization.
+This project focuses on analyzing patient data to understand factors influencing hospital readmissions. Using Excel, SQL, Python, and Tableau, the goal is to identify high-risk patients and support healthcare providers in reducing readmission rates.
+
+Project Objectives:
+•	Analyze patient demographics and hospital records
+•	Identify factors influencing readmission
+•	Understand patterns in diagnoses, medications, and hospital stays
+•	Support proactive healthcare decision-making
 
 Success metrics are:
 •	Clear identification of high-risk patient groups
@@ -10,10 +15,13 @@ Success metrics are:
 •	Alignment with healthcare quality and cost goals
 
 Key Insights:
-1.	Patients with frequent prior admissions have significantly higher readmission risk
-2.	Certain medication and treatment patterns correlate with poorer outcomes
-3.	Readmissions are not evenly distributed—specific patient segments drive most cases
+•	Patients with higher diagnoses and emergency visits are more likely to be readmitted
+•	Older age groups show higher readmission counts
+•	Patients not readmitted still account for the largest volume but with lower severity
+•	Higher number of medications and longer hospital stays are linked with readmissions
 
+Outcome & Impact:
+The analysis helps identify high-risk patients, supports early intervention strategies, and can reduce hospital readmission rates and costs. 
 
 Tools Used:
 
